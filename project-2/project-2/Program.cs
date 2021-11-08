@@ -6,10 +6,10 @@ namespace project_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("[ime_igrača] ima x pobjeda i y poraza!");
-            Console.WriteLine("[ime_igrača] ima z pobjeda i n poraza!");
+            Console.WriteLine("Petra ima x pobjeda i y poraza!");
+            Console.WriteLine("Anamarija ima z pobjeda i n poraza!");
 
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("   | O  |   ");
             Console.WriteLine("   |   |   ");
             Console.WriteLine("   |   |   ");
         }
