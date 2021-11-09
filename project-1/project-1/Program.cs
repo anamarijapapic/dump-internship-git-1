@@ -11,7 +11,7 @@ namespace project_1
 
             Console.WriteLine("   |   |   ");
             Console.WriteLine("   |  x |   ");
-            Console.WriteLine(" O  |   |   ");
+            Console.WriteLine(" O  |  x |   ");
         }
     }
 }
