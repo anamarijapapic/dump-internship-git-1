@@ -10,7 +10,7 @@ namespace project_1
             Console.WriteLine("Anamarija ima z pobjeda i n poraza!");
 
             Console.WriteLine("   |   |   ");
-            Console.WriteLine("   |  x |   ");
+            Console.WriteLine(" O  |  x |   ");
             Console.WriteLine(" O  |   |   ");
         }
     }
