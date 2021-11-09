@@ -9,7 +9,8 @@ namespace project_3
             Console.WriteLine("Petra ima x pobjeda i y poraza!");
             Console.WriteLine("Anamarija ima z pobjeda i n poraza!");
 
-            Console.WriteLine("   | x  |   ");
+
+            Console.WriteLine("   | x  |  O ");
             Console.WriteLine("   | O  |x");
             Console.WriteLine("   |   |   ");
         }
